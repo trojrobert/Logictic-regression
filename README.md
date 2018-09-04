@@ -1,5 +1,5 @@
 # Logistic-regression
-Performing a logistic regression on a Social Network dataset, the features is the age and the estimated salary of the users, the target is purchase.
+Performing a logistic regression on a Social Network dataset, the features is the age and the estimated salary of the users, the target is to know if a user purchase a product or not 
 
 ### Objective 
 ---
