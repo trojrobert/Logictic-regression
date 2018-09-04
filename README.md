@@ -8,5 +8,5 @@ Performing a logistic regression on a Social Network dataset, the features is th
 
 ### Motivation
 ---
-Am on my journey to before a machine learning expert so I am taking a course on [Udemy] (https://www.udemy.com/machinelearning/) to help me understand the concept of each machine learning algorithm. I manually write every line of the code to help me master the algorithm.
+Am on my journey to before a machine learning expert so I am taking a course on [Udemy](https://www.udemy.com/machinelearning/) to help me understand the concept of each machine learning algorithm. I manually write every line of the code to help me master the algorithm.
 
